@@ -1,0 +1,12 @@
+C:\Users\crazyyiwen\Desktop\CodeFirstDemo\CodeFirstDemo\CodeFirstDemo2\bin\Debug\CodeFirstDemo2.exe.config
+C:\Users\crazyyiwen\Desktop\CodeFirstDemo\CodeFirstDemo\CodeFirstDemo2\bin\Debug\CodeFirstDemo2.exe
+C:\Users\crazyyiwen\Desktop\CodeFirstDemo\CodeFirstDemo\CodeFirstDemo2\bin\Debug\CodeFirstDemo2.pdb
+C:\Users\crazyyiwen\Desktop\CodeFirstDemo\CodeFirstDemo\CodeFirstDemo2\bin\Debug\EntityFramework.dll
+C:\Users\crazyyiwen\Desktop\CodeFirstDemo\CodeFirstDemo\CodeFirstDemo2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\crazyyiwen\Desktop\CodeFirstDemo\CodeFirstDemo\CodeFirstDemo2\bin\Debug\EntityFramework.xml
+C:\Users\crazyyiwen\Desktop\CodeFirstDemo\CodeFirstDemo\CodeFirstDemo2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\crazyyiwen\Desktop\CodeFirstDemo\CodeFirstDemo\CodeFirstDemo2\obj\Debug\CodeFirstDemo2.csprojAssemblyReference.cache
+C:\Users\crazyyiwen\Desktop\CodeFirstDemo\CodeFirstDemo\CodeFirstDemo2\obj\Debug\CodeFirstDemo2.csproj.CoreCompileInputs.cache
+C:\Users\crazyyiwen\Desktop\CodeFirstDemo\CodeFirstDemo\CodeFirstDemo2\obj\Debug\CodeFirstDemo2.csproj.CopyComplete
+C:\Users\crazyyiwen\Desktop\CodeFirstDemo\CodeFirstDemo\CodeFirstDemo2\obj\Debug\CodeFirstDemo2.exe
+C:\Users\crazyyiwen\Desktop\CodeFirstDemo\CodeFirstDemo\CodeFirstDemo2\obj\Debug\CodeFirstDemo2.pdb
